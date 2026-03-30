@@ -76,17 +76,18 @@ Displays model predictions and risk segmentation:
 ---
 
 ## 📁 Project Structure
-customer-churn-prediction/
+customer-churn-prediction-dashboard/
 │
 ├── data/
-│ ├── raw/ # Original dataset (not included)
-│ ├── processed/ # Cleaned dataset
+│   ├── raw/              # (Not included due to size)
+│   ├── processed/
+│  
 │
 ├── notebooks/
-│ └── analysis.ipynb
+│   ├──analysis.ipynb
 │
 ├── dashboard/
-│ └── customer_churn.pbix
+│   └── customer_churn.pbix
 │
 ├── README.md
 ├── requirements.txt
