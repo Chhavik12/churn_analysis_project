@@ -81,12 +81,12 @@ Displays model predictions and risk segmentation:
 customer-churn-prediction-dashboard/
 │
 ├── data/
-│   ├── raw/                  # (Not included due to size)
+│   ├── raw/                 
 │   └── processed/
-│       └── churn_data.csv
+│      
 │
 ├── notebooks/
-│   └── churn_analysis.ipynb
+│   └── analysis.ipynb
 │
 ├── dashboard/
 │   └── customer_churn.pbix
