@@ -90,6 +90,7 @@ customer-churn-prediction-dashboard/
 │
 ├── dashboard/
 │   └── customer_churn.pbix
+│   └── customer_churn_prediction_dashboard.pdf
 │
 ├── README.md
 └── requirements.txt
